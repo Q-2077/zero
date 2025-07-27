@@ -10,9 +10,10 @@ p{
             font-weight:bold;
         }
 div{
-            background-color:cyan;
+            background-color:beige;
+            border:5px;
             height:1000px;
             width:1560px;
-            margin:10px;
             padding:2%;
+            border: 10px solid black;
         }
