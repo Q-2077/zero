@@ -1,0 +1,10 @@
+h1{
+            color:red;
+            text-align:center;
+            font-style :italic;
+        }
+p{
+            color:rgb(148, 4, 28);
+            font-size-adjust: 0.7;
+            font-style:initial;
+        }
